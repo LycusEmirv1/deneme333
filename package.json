@@ -1,0 +1,16 @@
+{
+  "name": "emırhansarac",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Emirhan",
+  "license": "ISC",
+  "dependencies": {
+    "gifencoder": "^1.1.0",
+    "jimp": "^0.5.6",
+    "request": "^2.88.0"
+  }
+}
